@@ -24,15 +24,11 @@ Tools for GTM lead intelligence: enrich property leads, score them, draft outrea
    pip install -r requirements.txt
    ```
 
-   The pinned `requirements.txt` may include packages from a full environment.
-   ```
+The pinned `requirements.txt` may include packages from a full environment.
 
 ## Environment variables (`.env`)
 
 The app loads variables from a **`.env` file in the project root** when you start Streamlit (`load_dotenv()` in `app/main.py`).
-
-1. Copy or create `.env` next to `requirements.txt`.
-2. **Do not commit `.env`** — keep secrets out of version control.
 
 | Variable | Used for |
 |----------|-----------|
