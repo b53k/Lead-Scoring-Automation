@@ -1,0 +1,394 @@
+{
+  "features": {
+    "the ludlow|188 ludlow st new york ny us": {
+      "features": {
+        "unit_count": null,
+        "review_count": null,
+        "complaint_count": 0,
+        "manager": "Edison Properties",
+        "active_listings": null,
+        "floorplan_count": null,
+        "manager_portfolio_size": 243,
+        "property_type": "multifamily",
+        "detected_pms_vendor": "Yardi",
+        "ownership_change_bucket": "last_30_days",
+        "ownership_change_days_ago": 11,
+        "ownership_change_kinds": [
+          "new_management"
+        ],
+        "in_leaseup_or_new_construction": true,
+        "open_leasing_or_ops_roles": 8,
+        "expansion_bucket": "last_30_days",
+        "expansion_days_ago": 5,
+        "tech_change_bucket": "last_365_days",
+        "tech_change_days_ago": 322,
+        "evidence_confidence": 0.9,
+        "_evidence": {
+          "ownership_change": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw5Vh0wmfHw5TqGXY7gQ5cYe9XlzIboPpV5rbqCeun6Le7F6U9Ij4Tm7Bd8EfDJvWRPQ5YGMlNmhmAtEdtphutbMfdVnrlsQpAibeocw6VqZipMNXKAW2V5Kuf95WhvPhA4de4fx5r0w==",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbKk99Oychsp_kGM9_4z1Kg2VHGDTRRrN4yl2BNADfmeBJDROl_PT0PErZJr2ntcPgBFkJ9X1GIJVvtGQK2CjENBOOZWkczCbKZsTFZpvQaT4DjXv_U9sKj20iIj4G-Lj32o8OpM79_MMNzZUddfMgnMtN6ozvPOH-MgO6jZWF",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV5mYirdXho95pUPN-1GWqPDARKRW0-MccZLeFfm923TZclgh4jmFjnXWJVmFsQcpsXiHpwm9pxtgYmnyS9svzdVhFT5ShOKD6HcXMEwA5HhxIcNW-sDbj5jYdMTgq8nP0O5EPAyhuXRjCRauHoRVED7cEvpcRMnK14B7iUQo="
+          ],
+          "leaseup": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw5Vh0wmfHw5TqGXY7gQ5cYe9XlzIboPpV5rbqCeun6Le7F6U9Ij4Tm7Bd8EfDJvWRPQ5YGMlNmhmAtEdtphutbMfdVnrlsQpAibeocw6VqZipMNXKAW2V5Kuf95WhvPhA4de4fx5r0w==",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBFatbovKgJyhwHExm82Zi5RSrcUHNazNKnx7ZeKiO9CPiR7d6JoncUC7lE_kQstbAJZzAbtZufTnsHhLHFt2Aqlgtlj3oBQwaU4EItrnjH4phD9KCnuF5ubz3wt12aQ==",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZU1XrUm8Zj5KwDYnBfIXvnniCrAa-asJA5BKvWMoZAN-MyKECFO8ZIRp5SVL6JKbcSBYr4epqMbNO27MyC_Xidkfe1gEnpLss8Tl27KbKdg1e44oEo8eBMcrwdE3ijgOHBGcoMjt2cA=="
+          ],
+          "hiring": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4QED3SgTwKPNb-gn1XvHFm8IJvzXa4SB1B6ImG-1eUdP_BJVShXn9AS6Q96FOo2yBjwy4R2VUCZKvXi1sysBefvba0Ivw0xttmOYQlbq2vUvl-9vzxp-4vEbPUQg35PUryu_luLo6_dT6x_870ykZ_m8gwn2ENNF28NaksO1ID0In03IvEflUXa2m",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvfdIAPYavWb49CCezsnytrLBiPFQ15t9z619u37jdODb35hq4ByBXZ-03CFZDmE3ITZAk_1N7DvZ2pWE5X_GlW6EKJ93To3mGpziLPbc_2W9h6c6egWM6fHDo4jof3wXJ6utWXGtMbt2jvMYSEqvmafMu_JNeSUOwJeaJGMU7kA4YTe58WntbRUYNvH5P",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6Uxvs_IIlic_aW4GfAkVilssf12MiWBVy7AmiYJa8R4uoe_MeAaGjdqEr4Vft4utqTyBYvKDlaDCfazuDVcSZafW2e6S0wkFcBwwq_Xxr7NDLhyj9BFtVq-0BQ3YaIdRzF4lIt7ssCru1lvc2HMdKB3tcR7m_-Iv7VNbJZrXigTt1dX14tt3HEaqt0Ht0Oa_S6_oX8pqxiBcaP6vdXWSlc9sWhzYrbcpjU_LQNDXCPwlcVA=="
+          ],
+          "expansion": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf90edQJmxadU8qcUwFTRNRFRjk2uj1fLhlwu4_xh4xuvbrMtQTL18lR9tqf97Ana4-2FL7w8W6Raaru7tLPDuRsX37e7MlRmnFRtOfgF_DnAfoP5SUWavkSKZz052Pq7cQFeNeCT0byN22VVMkYVPVi-SBbb6L3vbaIAhEQ==",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkVQPidUTvbSKEteOX4mL8jL3Md3ss6L7IS-yV7hV6vOQ5ZL-wcAiLnJ82IqB6acEWWcTREbDQcNPH_zOxFgjShQHlj6JXhmybU0v0SIuSXwe2Im-LIpH8-wnhmWgVL6-czG4f7dsfrj1V2n6jtHHkHuF4mRN9zUj2RAzcommpRt_3Kb9YYaoMkIZfj0yyTxdcItprLdug9MnyWkpeuRuvQGXF",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5SMSIRwN7ciHIl1oqQN8mnRxtGuBDHmMm3J-MeB75X8kCpI4qTohVT1QAi7DoBSCGhN02BgFDR5MPCfTPBv2cupHAo_fI7CbnQaWQQEgsAr0pN1349AIm02nwfs4z0xXcyp2p1Poe1nuxVN3n4YKoR9MFGlaQtJbBsTWk0a32n7Vk4wjMnXvf8Wu9AXZ0_UnuMJdpylKOQ3GK1KIKMuHWuTmlhI6DLN3B"
+          ],
+          "tech_change": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2NvxfFtZRFMaXfDFUNx_wZe160eQNOPOl71vihmnyPUa5wuuMS727Em1QLZPsrGRoiCHt2ZiJMnIjdFg-_D6FLY1mcEWzQtDbEKVotZmz8F4cAkMRe-0ed0_jp3F26B1JtjdhurAtxM1UwPq5xhFEOs-vmY3-fqv14dwU5FKd-AH2SV0OCX7nTK4-l5hthNaKPmnS7YkMJPPE89nC_-Qhnw1YAnT_r0zY9ZfnMFA_bTi6Y6qiRGwzRX2yxjAJLAiWIYSvKRO1l4DHUOC6TQUdevdUVpAZBwgvjZQ=="
+          ]
+        },
+        "census_data": {
+          "employed_population": 34167,
+          "unemployed_population": 3028,
+          "unemployment_rate": 4.5,
+          "employment_rate": 50.6,
+          "median_household_income": 48386.0,
+          "total_housing_units": 40696,
+          "occupied_housing_units": 36556,
+          "vacant_housing_units": 4140,
+          "occupancy_rate": 89.83,
+          "population": 82155
+        },
+        "property_website_found": true,
+        "api_success_count": 4,
+        "api_attempt_count": 5
+      },
+      "cached_at": "2026-04-28T07:32:00.260722+00:00",
+      "outreach_email": {
+        "subject": "The Ludlow & Edison Properties' recent changes",
+        "body": "Hi Dawn,\n\nI noticed Edison Properties recently took over management of The Ludlow about 11 days ago, and it looks like the property is also in a lease-up phase. With 8 open leasing and ops roles and a portfolio of 243 properties, managing new prospect inquiries can be a lot.\n\nEliseAI helps teams like yours automate 24/7 prospect follow-up and tour scheduling, especially valuable during busy periods. We also integrate with Yardi, which I saw you're using.\n\nWould you be open to a quick 15-minute chat next week to see if this could be helpful?\n\nBest,\nBipin",
+        "drafted_at": "2026-04-28T18:05:07.647389+00:00"
+      }
+    },
+    "the strand at lenox|3200 lenox rd ne atlanta ga us": {
+      "features": {
+        "unit_count": 447,
+        "review_count": 55,
+        "complaint_count": 36,
+        "manager": "Asset Living",
+        "active_listings": 25,
+        "floorplan_count": 11,
+        "manager_portfolio_size": 300000,
+        "property_type": "unknown",
+        "detected_pms_vendor": "Entrata",
+        "ownership_change_bucket": "unknown",
+        "ownership_change_days_ago": null,
+        "ownership_change_kinds": null,
+        "in_leaseup_or_new_construction": false,
+        "open_leasing_or_ops_roles": null,
+        "expansion_bucket": "last_30_days",
+        "expansion_days_ago": 6,
+        "tech_change_bucket": "unknown",
+        "tech_change_days_ago": null,
+        "evidence_confidence": 0.7,
+        "_evidence": {
+          "ownership_change": [],
+          "leaseup": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtwJ8AlwLolDMzuX_vzYNt7PFdpm1lDdI6t3BRYMhC7EqUkrcsSSH9FcaLOmsiFVxfEOrzFAxX-QcyFL5Lo7-ZV1lm2VH34LCFMbkBTnZjH4d-1SOkSTDRV44Iy6dNieW0BLujRKo5LCJK-qrEp8_gdcyZwngfm1OY2F1dTqVqp4Ivn6VTaoYTPZaaEqIm02WwF5k=",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKReS6PUdmijrZ5q-3nhBq1HByPqQXSvZzugJN10w-oMvbUrJwQwMu7wHU5gF_v5TRZXEW0J0ajeydphkTK6S5RZ16UPLmHHp-uEBgp1MAHRdISiFmIS06_pFNPhE3rQzmc3QiAlW5PP2OsTESVJpTb5m_FykhiqaKx076F4Zsj5sxHmR4aw==",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGntERH1Zumef-JLCryJ3RN8MGU9MOClCl1QY7p99ke8X5FGY6GBQyD6sh1E75jrvYEgk962oC9mZZ4AikutWRfaos0MKt_FPPmZ7hBgzjPpqeDKMwjPMf1sNLKcyv5Jn-su5y19TTyiG_WSJ0QvExQm7kSfsv"
+          ],
+          "hiring": [],
+          "expansion": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFix9AAElhLJ56U2I9FAnMEpuq9XgNGcVgiFZAqziEDhmh4lUledLk2rqBlUV1zJygK400-nlizvlD2_zFslKlIt9dsuN0LGS5F33xhmuKQHSVX8N7k-fX1NuX0cyyOKieritJjgqjpnvE0zcw6B-npOQGlUWz8-pNAjxCbAWRnE7yWnGkZN5Ues9OFYWW7c-uv",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcnfQ1gSaiE4-P2T4vCNtc1R9UvPreXdsYMs9kXnprsZSSBzLCswMISkyhWEL6SU7tI4KA78Hn6scXdOOjSMgTCQEp-lZqksNCO56wTqIZmaA1gbi8NVnomFyncNrB-yo_rWsfjMJROQ_ypy76a87WOBjUVaPIpeTKTAaUfLI07vwMNvU4T-t_URPmO_1FUYLP9hkxq34h_cJDUr-cJw==",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgfsEke70sLuk4jy9EVo0UF6nPtnszVxRXo_rcZVo-wtGC-dLGelvnNtuuYV2J5ZcA68NGS_CHOjqIvcMCbYjYZVh-uMuB-xAamMDa2iWHnRl0IPeL0QqBm5C7WOXv9-0rYbPn-V3IRTRz1EQ9Le3OZroiJIWwqJwcP6ZnSMblRLVQ2FOdSGkA0GAySYb55NM2zJB8LzspLNI="
+          ],
+          "tech_change": []
+        },
+        "census_data": {
+          "employed_population": 19156,
+          "unemployed_population": 737,
+          "unemployment_rate": 2.9,
+          "employment_rate": 76.2,
+          "median_household_income": 92122.0,
+          "total_housing_units": 18610,
+          "occupied_housing_units": 16088,
+          "vacant_housing_units": 2522,
+          "occupancy_rate": 86.45,
+          "population": 30942
+        },
+        "property_website_found": true,
+        "api_success_count": 5,
+        "api_attempt_count": 5
+      },
+      "cached_at": "2026-04-28T07:34:46.329257+00:00",
+      "outreach_email": {
+        "subject": "The Strand at Lenox & Asset Living's recent growth",
+        "body": "Hi Bruno,\n\nI noticed Asset Living, managing The Strand at Lenox, expanded its portfolio just 6 days ago. With 447 units and 25 active listings at The Strand, I imagine your team is managing significant leasing activity.\n\nMany property managers in a growth phase like yours find value in automating prospect follow-up and tour scheduling, especially with an Entrata integration. We help teams like yours ensure no lead is missed, 24/7.\n\nWould you be open to a brief 15-minute chat next week to see if this resonates?\n\nBest,\nBipin",
+        "drafted_at": "2026-04-28T08:22:27.935201+00:00"
+      }
+    },
+    "resia tributary|1851 market st douglasville ga us": {
+      "features": {
+        "unit_count": 433,
+        "review_count": 2,
+        "complaint_count": 0,
+        "manager": "Elmington Capital",
+        "active_listings": null,
+        "floorplan_count": null,
+        "manager_portfolio_size": 40000,
+        "property_type": "multifamily",
+        "detected_pms_vendor": "ResMan",
+        "ownership_change_bucket": "last_30_days",
+        "ownership_change_days_ago": 6,
+        "ownership_change_kinds": [
+          "acquisition",
+          "rebrand"
+        ],
+        "in_leaseup_or_new_construction": false,
+        "open_leasing_or_ops_roles": null,
+        "expansion_bucket": "last_30_days",
+        "expansion_days_ago": 6,
+        "tech_change_bucket": "last_365_days",
+        "tech_change_days_ago": 302,
+        "evidence_confidence": 0.9,
+        "_evidence": {
+          "ownership_change": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiiS0oWhqrT_H6oXqLFI5BEhm70IJrYj1WmP5rNvWXlR2mvoGPu6xUGzIp4v6pvfb9pxS47T4HIQEcXoXF2jvOx_SZ4FrYw0h6QleLbWuR2MIu_l2utcFzcZW8UZl40tjIBS5-kLUfkAKuxJ8SxxuG2lhwH4VTI7PylWfYsk5-Q3u_dvzfdTZGW5PR9G_gF93s",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo4lWHrlXiYszaePsE1Zh_OgXq80RJW2Kdly4dwSh5pwMIUC5ll5qLKCAQDTyqzIHGnXHj6-D75ZpCG5ymE5sxLNECIfjOFy6-Xk-8t3vjMUUQCzvoDMzAIwjArEIfU6ZCMswKksq5jxGgKJcWjQyIkKQb1ba9x8ECCQ3s7I7f1IypPkyuG78xK7AVYXanq48GpAlIx3lz3J1NB-7iVA==",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGNSZNtWU8nSer_R-5m6npPn9ZKRVpDGQhP3ncS84OcawpwhRis5BZ5bsAnhTUiM4wRZJG48jpa6YekkbbHk-6cThuuJeQXIIOAG5IssasJi1--giUCrJcaFLkfVXzR6A-bgxsBKjMlZXX732aavt_xTK08pfsMf_C36Ixx0o="
+          ],
+          "leaseup": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiiS0oWhqrT_H6oXqLFI5BEhm70IJrYj1WmP5rNvWXlR2mvoGPu6xUGzIp4v6pvfb9pxS47T4HIQEcXoXF2jvOx_SZ4FrYw0h6QleLbWuR2MIu_l2utcFzcZW8UZl40tjIBS5-kLUfkAKuxJ8SxxuG2lhwH4VTI7PylWfYsk5-Q3u_dvzfdTZGW5PR9G_gF93s",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFolabhvfPG9pNcxhMafJdydcBbPj7uf1wQo3r4s4BnhwWYxMdv9oYkclWLKM__a9F6zRdy8KshpqrjwGGucQ5BkSCtxaqVzCQzzg4AHdrvEu7c7Iuj_Cnukn4o3IydBCJBA_LTk0wCjPvy57APd7P6pFk7W_hiiQxrksgNb8PHKz0aB_yg7obJzxLHXf-4Z-H2",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRBSxuCRJfRfH1YGWH7w6wuFFpkg8v4oIP-MCDLqwQ9Bam3XaceqaUKKXuq5Vte2JZATvPalYAfHWSmnnRCREtIyy4tKI82lkzgyPFOQtrTjbhI-OIEscN3LITCF0YlJ-nH09aV6QvWO26KdMcmOe7h4oJfTucjppalGr06qWZg8Ea3zNqR6c"
+          ],
+          "hiring": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEe_bxuFIeVi2450KDyfL_D9GEU4ddlb3lvU9KOsXR5fL9WodtzZxCo9cPRmg2fDQsnJhVaeThq1bmyi2EDINCyHTLDsBrii9ukhP3nebmpdLr5drVq3BX3GeUO0tfNRD3nvULMvdzNGRfNIanuh4p4niAmc0",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtPUn7XRIflt79YEvpwsfbqgt_J5lTrjCy9MbwGZ2RERN5aYZn89-bgVgR_o3wDNV27IgMHp6-P-DCuKcw3u8Vu7wONmfkASAi2SkKIpMPM74U4npCTGOd40wINRMrs-jDQhBLvu2gsV1J53ykT2YJbZje7f5JawrTfEZgrVhQCJm7dZ2g1XSOo7H5AufJQUUGwKliC6li2PHoA0OTaEfW-7FP1I0BVpD_j08RJ30PNyrp",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1802jbr_JcuA6-A5KfW5-kGdouQORHnKhL67wNiMM7nZA2bFqcL7cjhJ6Gy-rqf2qWgUHTFrzoLz8taWLk2Y_upIMdanSSLJFfE_6EXGiv300QQdIOWoKjFNnn6qj4CqLVelKQTFpbJvIu85tTbLL15rkX6q_"
+          ],
+          "expansion": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiiS0oWhqrT_H6oXqLFI5BEhm70IJrYj1WmP5rNvWXlR2mvoGPu6xUGzIp4v6pvfb9pxS47T4HIQEcXoXF2jvOx_SZ4FrYw0h6QleLbWuR2MIu_l2utcFzcZW8UZl40tjIBS5-kLUfkAKuxJ8SxxuG2lhwH4VTI7PylWfYsk5-Q3u_dvzfdTZGW5PR9G_gF93s",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo4lWHrlXiYszaePsE1Zh_OgXq80RJW2Kdly4dwSh5pwMIUC5ll5qLKCAQDTyqzIHGnXHj6-D75ZpCG5ymE5sxLNECIfjOFy6-Xk-8t3vjMUUQCzvoDMzAIwjArEIfU6ZCMswKksq5jxGgKJcWjQyIkKQb1ba9x8ECCQ3s7I7f1IypPkyuG78xK7AVYXanq48GpAlIx3lz3J1NB-7iVA==",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGNSZNtWU8nSer_R-5m6npPn9ZKRVpDGQhP3ncS84OcawpwhRis5BZ5bsAnhTUiM4wRZJG48jpa6YekkbbHk-6cThuuJeQXIIOAG5IssasJi1--giUCrJcaFLkfVXzR6A-bgxsBKjMlZXX732aavt_xTK08pfsMf_C36Ixx0o="
+          ],
+          "tech_change": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFap2M47KnQOppJ3ZzF1jUc49_lvjGT3_bULmy0bpf2PiTrKERqBq__lCOdX0435YqVCGhUfwInxMUH3XixM7kkC8MMLChpYxjfmp2nIdXK-jOGqcImaXd458ipB4thflUaM0OShH3aiKI_JfDdXGX6nFp4fp6gPghKPaYWhE64RxRImNx0M9RljP-SnYqm2OuBOi4LeHntfQWItpyRO08yUKvMNm8_D1vJ7JiwKpLYxi_TLf8M3t8nqNbmBDL51rh9o3R96GgzEhrnoq-F5W3X5u3YT16UFkmOXO"
+          ]
+        },
+        "census_data": {
+          "employed_population": 32667,
+          "unemployed_population": 1908,
+          "unemployment_rate": 3.7,
+          "employment_rate": 62.6,
+          "median_household_income": 94526.0,
+          "total_housing_units": 24284,
+          "occupied_housing_units": 22486,
+          "vacant_housing_units": 1798,
+          "occupancy_rate": 92.6,
+          "population": 67508
+        },
+        "property_website_found": true,
+        "api_success_count": 4,
+        "api_attempt_count": 5
+      },
+      "cached_at": "2026-04-28T17:32:43.015176+00:00",
+      "outreach_email": {
+        "subject": "Resia Tributary - Recent Acquisition & Rebrand",
+        "body": "Test User,\n\nI noticed Resia Tributary, a 433-unit multifamily property, recently underwent an acquisition and rebrand just 6 days ago. This is often a busy time, especially with Elmington Capital managing a portfolio of 40,000 units. During transitions like this, ensuring consistent 24/7 prospect follow-up and tour scheduling can be challenging, particularly with a dense local population of over 67,508 residents. We often help properties using ResMan streamline their leasing communication.\n\nWould you be open to a quick 15-minute chat next week to see if EliseAI could support your team at Resia Tributary?\n\nBipin",
+        "drafted_at": "2026-04-29T23:16:17.086665+00:00"
+      }
+    },
+    "new bridge crossing|230 kinderkamack rd river edge nj us": {
+      "features": {
+        "unit_count": 69,
+        "review_count": 4,
+        "complaint_count": 4,
+        "manager": "Ingerman",
+        "active_listings": 1,
+        "floorplan_count": null,
+        "manager_portfolio_size": 3678,
+        "property_type": "multifamily",
+        "detected_pms_vendor": "Yardi",
+        "ownership_change_bucket": "unknown",
+        "ownership_change_days_ago": null,
+        "ownership_change_kinds": null,
+        "in_leaseup_or_new_construction": false,
+        "open_leasing_or_ops_roles": 8,
+        "expansion_bucket": "last_30_days",
+        "expansion_days_ago": 5,
+        "tech_change_bucket": "unknown",
+        "tech_change_days_ago": null,
+        "evidence_confidence": 0.7,
+        "_evidence": {
+          "ownership_change": [],
+          "leaseup": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbK3PsMWS48IUTXMkz3I4Q5WBXufeve_AQTDZljPoVwKkWN_Jmmh7NV5naaUUwntgSgahpd9oGf1zatX5i50Rl_ZwTKoYyuc9OGlybBVeZpDCzlWVee6PQ-XcwkDZPLk6R42OJDWUTul_aKhdSYG3Rq8BEdUtEvD-Cb4g2tMSm6WLs1EZbepXmRQ==",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxCUm0rXF2xmGFVwL5WMOdbSn2DTkBNGGQeLp8Dsdoz4SKFH0gyBJIOAvQMFmDjQwsfpLWy73uBJzz9s40worSjbvxWMdxO8czziwBlB0cTDRiiTtSqxj6OlgaK65GcOpeTUJp7JO4AV-bdgR9KO-jtDvPUIZNYtZPn5I=",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTNrSqq9eXLVUPd3YNbAeL5ESepRCFkNUKJ1aAHpGqCf7utyc_BNl1T6VaAXf_3QIDO4-skvx_t0vprJyG2CGLGB3XrUB8_P57H07DnhP66fyf_HM5GkiYOq6gAiOswe-9_La0VaKThO3-pYLZpqCzNQwvBqwu2EtpTaf0y3n8q3gcuJ0AsRgCZBsowg=="
+          ],
+          "hiring": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ7hIpMwuL3ff0d3fxd1MEc6Fs_F5rcN1PZ0EwdmjbkFZGQ2alPu1uhc5jcvMwMzqFXm0ShYam_IyJuKGIgj6dy5OBWT9d5SXMNhv8ZWj5bxA_BrTPfTTI1LeVZGy4_NW2tyspEJ9MbdnBLsN7uX1Sv0LL3uo6BlErMcALzcesdUIEzAexfdN2jGax__27Zv0MUNE=",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkNRPh8_gkj8-n7AzPpzQV9DS_vvunlQM29mw8LEQuPIkTub2Ls6MzdGQUOe-s29TgyMkMMmCGR_BW94z0PuzH1rGvwE0BsZldwI7IB-Nhj1PXV3Rlpx91ccirJXBYLVXiapL0Y-44fpsubeQpXpcv_aMArBK3",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9JNh9X4KpvOs2RxHQKVAowWlqEoTkMVmV7FSMUeJX9jbJ6-ib-wqSispSogBQHryK1f5RIrzTmcHGEBm_I1w4enKyaAt9Rom-KOjVFJftWFxF6cufOdazAO6-bRcq9xxsHmBMTHlrLl252KLDg34VmbdyC_pGlmAbv1cMg9L7YtxVDJ8ZHD3VYqRk0O3fJb5-sFFEnCmNfMXzjvv_9kRZh9TNPpEK7Y1r"
+          ],
+          "expansion": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfvX6AuAMpNL5nT1quNBkImTudqbBN0FKK0HRYvVm6yJ_0zlOIfUgYyPUOlhS9suI5j3Q2qrynVB6B4HaQ41s400gNY6YqcpEO2o9blPEjCAs90VdOVkfle1vkprtVsKQAeXjY5_q9yZ_kgbLTg7WL95gw_u7TOjF8I1prox3l5MLJo18e2uMe4OLvwd3dZW0a",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaoykZtBo8nF2RHm9vFHDTWBfHOvxceb2v1FlHR3Lv0z9izUgP8SyC77YkydlMh2LIppxHBK3XPhf58opgBAObf2df2iUqpwwRnaLhBkspqt9q_MEB9VhwpsDPk4t78GvgHANnkjUiGh2qGg2OZQpatrwchKhvGW-WC66acE_Hpo4-",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE5h0WU_Yg72pxM26rGpSonNx7ju7F0OEsra_uIthSmcgwLbWLKKKvp-W5UhnHM908yNKbem_KSJC1xkQ_1dIXryaLePi7DWJL2I1oBjEbvSP9VKvQf_ujyAww-ay-yAFuJROcRsYjSIPHOn5o6a_FTdIUa-RYnA_CjqViT7edDC6O_i9JCsDbdGwIxcgcKJiYYIxcLMYSVifUAnPmIw=="
+          ],
+          "tech_change": []
+        },
+        "census_data": {
+          "employed_population": 6388,
+          "unemployed_population": 313,
+          "unemployment_rate": 3.2,
+          "employment_rate": 65.6,
+          "median_household_income": 159028.0,
+          "total_housing_units": 4590,
+          "occupied_housing_units": 4503,
+          "vacant_housing_units": 87,
+          "occupancy_rate": 98.1,
+          "population": 12049
+        },
+        "property_website_found": true,
+        "api_success_count": 5,
+        "api_attempt_count": 5
+      },
+      "cached_at": "2026-04-28T18:29:26.881782+00:00",
+      "outreach_email": {
+        "subject": "New Bridge Crossing & Ingerman's Expansion",
+        "body": "Hi Diane,\n\nI noticed Ingerman recently expanded its portfolio just 5 days ago, adding to your 3,678 units under management. With New Bridge Crossing's 69 units and 8 open leasing/ops roles, I imagine your team is focused on efficiency, especially with the local occupancy rate at 98.1%. Many property managers using Yardi find that automating initial prospect communication and tour scheduling helps their teams manage growth and high demand without adding headcount.\n\nWould you be open to a quick 15-minute chat next week to see if this could be helpful for New Bridge Crossing?\n\nBipin",
+        "drafted_at": "2026-04-28T18:29:34.264794+00:00"
+      }
+    },
+    "aspen meadows|1195 meadowlark ln jackson wy us": {
+      "features": {
+        "unit_count": 115,
+        "review_count": 4,
+        "complaint_count": 4,
+        "manager": "New Earth Residential",
+        "active_listings": null,
+        "floorplan_count": null,
+        "manager_portfolio_size": 11525,
+        "property_type": "multifamily",
+        "detected_pms_vendor": "ResMan",
+        "ownership_change_bucket": "unknown",
+        "ownership_change_days_ago": null,
+        "ownership_change_kinds": null,
+        "in_leaseup_or_new_construction": true,
+        "open_leasing_or_ops_roles": 103,
+        "expansion_bucket": "last_30_days",
+        "expansion_days_ago": 5,
+        "tech_change_bucket": "unknown",
+        "tech_change_days_ago": null,
+        "evidence_confidence": 0.5,
+        "_evidence": {
+          "ownership_change": [],
+          "leaseup": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxAeSy0VkUPWZ0rzMFcnlWs1dzYrmhzpWjnTiO5l9p-TUilsXKwf0jiAeXCNv0SaCOo5JYwVw6iGanlCVuF-CTQUFhkV9n6fzYKoeS3dSlXVdq6pxFw6caQ_A5scwRu1LskK4yrGL1gn6KducOUFjcOFsLHcdpmuitV1nX06AuoYMZ",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPFrxVVVY7Mzab-ZRBL_D-M_PxXjh2xMFhNMyXOfcC8iXTxVUgqvQeU1TOQZYo3mH1saiV5ehVzc19N0Q8iSM47jwsp2vxouWkweihNOUD1L-jpad-DyACqbK3omgvnUpgoMUOdg6VIm3bnl_4m3H_KLgGj-FkxtDY2So9zbZRhUEHfDXk8OY=",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECe9F3jIwwB4Q5BMljh5fPY-k7mLeYmVqD6XDmG41yRKzyol-919lejd-Zd1u2vaZaFe3qtTCzR6AxL4Nx4K7H7oB6TGSkSl0kh_sgFdTrEF-bjWMt6SF8J4BN-XeYVDA0Kl9-JFTc86DVwHRr28HDKy5mZxkdr1tvSsWjurD0-KNbqpaie0DNTllYjQ=="
+          ],
+          "hiring": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUOVTnkLFoJdYIbJwpkUeHKbhrZUcjstPgACcARgBrJNlatTiqAMJVzRhnPTpTbnBfM0sDgsmOPMHNRNwti0-l36wu6tgWrn_wXHOqMjXHAA8sNljUtiuShFovVsq2YDO2"
+          ],
+          "expansion": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHMZ9YMY34fsRK00aM2mx8pz8a1gslm0r8bAqLBqVHteDwT2GAZevTq64wqzHvthOuEvyJQ7bq88_XIyWDbuWN-cAajhtiTzRFbf_ixD5a8QGw9tDjH2UYzVV6rY1HxfKlmStkz73LL_l75_zLfYZAJx9Dr5wPNCw7oFyZRsih6UgT3t28_raWnekZg5khtoupow==",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjIL2yiCio4He9PZ2uECcEtxxmuOO201zXYSMhOHCJcn-k2bLEr5daKAD5ZJ1GqCa9Ja6RIIhGOT1d8hvwfXDa0JY2A7yY6_AYFxr0pPIgnIlxYXY_iHTiELFWo_7-ooPH8R-HVkG400ng0a9TXQJ9LtvHEAoFrVIA5eqBwg6ptJvGKRyQ16IZVl0gBp2edNkGmZfljwRYXxT9TfwgItY=",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrL887rSvB7rAGaCaXlOUkdcqsb_8ZBTNgnYV7SSrjADsqLZGRdcL8rWZIjgTdtJW0ao5VNf-801npVUPjGj1KunkVk2iYlnxeQEKXSWgmtPxvuHSSMGkq2sNexZfPFemIoswr58JiKHss4ISGZ6XAgqHIDLceImMPq3Z6hq9B2vWFzHJdwgDhfo_mHldN_IWB8oA=",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiAcPDaBQhuVSYbSVgb6-mgb11W6YT1oNMfhC5p8bg1uzasMSiGJvKmaUdkA2-BuGX2YivlwboyWhyr0jXJ_vcuLaXTL-_AS5fHf0G9NtBZc2jAD7XSPJodN5sBtu6vEK-x6SSHvCwejgIv-T11WkXO8M4DLkEBNPAjqfGWx2hL3XmsQtAh75NDNVYmi1DAXKX1gZ3MQs2dUbtQWCnsRL_"
+          ],
+          "tech_change": []
+        },
+        "census_data": {
+          "employed_population": 11085,
+          "unemployed_population": 141,
+          "unemployment_rate": 1.0,
+          "employment_rate": 77.7,
+          "median_household_income": 124717.0,
+          "total_housing_units": 9027,
+          "occupied_housing_units": 7155,
+          "vacant_housing_units": 1872,
+          "occupancy_rate": 79.26,
+          "population": 17690
+        },
+        "property_website_found": true,
+        "api_success_count": 4,
+        "api_attempt_count": 5
+      },
+      "cached_at": "2026-04-28T18:36:02.370240+00:00",
+      "outreach_email": {
+        "subject": "Aspen Meadows: Supporting your lease-up efforts",
+        "body": "Hi Roger,\n\nI noticed Aspen Meadows is currently in lease-up, which can be a demanding time for any team. Given New Earth Residential's recent portfolio expansion just 5 days ago, I imagine efficiency is a top priority, especially with 103 open leasing or ops roles across the portfolio. EliseAI helps multifamily properties like yours automate 24/7 prospect follow-up and tour scheduling, freeing up your team to focus on closing leases. Would you be open to a quick 15-minute chat to see how we might support Aspen Meadows?\n\nBipin",
+        "drafted_at": "2026-04-28T18:36:11.268944+00:00"
+      }
+    },
+    "creekside village|1600 sequalitchew dr dupont wa us": {
+      "features": {
+        "unit_count": 160,
+        "review_count": 2,
+        "complaint_count": 0,
+        "manager": "Allied Residential",
+        "active_listings": 3,
+        "floorplan_count": null,
+        "manager_portfolio_size": 20000,
+        "property_type": "multifamily",
+        "detected_pms_vendor": "Yardi",
+        "ownership_change_bucket": "unknown",
+        "ownership_change_days_ago": null,
+        "ownership_change_kinds": null,
+        "in_leaseup_or_new_construction": true,
+        "open_leasing_or_ops_roles": 1,
+        "expansion_bucket": "last_30_days",
+        "expansion_days_ago": 1,
+        "tech_change_bucket": "unknown",
+        "tech_change_days_ago": null,
+        "evidence_confidence": 0.7,
+        "_evidence": {
+          "ownership_change": [],
+          "leaseup": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxlGLpQVG5sCfE-cTKZGXZxw_84AulfkZazy7PAa7e6aYh69ZuupavhnMXOdJqTne6poebWaVYTQ391hKDmd0Oes7g_YqXgHDwPYGuzfUK2odRY-ix-LRbRqmgBXyCcVply9dQLozsUDEAPEZ0ed6KV5sGlytY",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuGFhDb-7_JxTI2iLzCJpoDB5t2r2zD6KR2770uicbNhbc8bJUsVjqXK1BuOFxDGB_gHq33hzreQlG0eeM9pogURbBFJXrBggb3gguJkmY7MDLSX-wUSeRIKn_EBu0mxQ=",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHitgxwiiYPOtBHnpjgW7HwJCMzTyMOYuLFwp6fnj7Ss6kg0LWwG56M3TPHftx7oFvi-VY0dFp7L-tuMI5Y-Jg1OmLAr3ihNkN6rukW-00o7oABEfY_5aoDdz8FGGjSC7Tl2kdXR59oB7FL"
+          ],
+          "hiring": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpFMb2TdxXVlpBxCRezAA01Mls7NirvWAVbByehXyJlVrRZHJvVX84nydnV8-qeKscVc9w1qwxLr2mAe6PbIc2jMM5sMRNhDA_QDDAeGo0k8arOB6o9dwZCpouwzDN8AvE8YVvntNHRc5NaAFysAFqIK2lKif5SpXv-C9d3_15A-n7e4aXdnJuF93a",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4D-Uz7SMr-xoqt2XwV1C30UITiFxElEYRHAPsPMr9Q3qLPObnbmlwWwz3p1W0_VFKEiNXvwcAlB-rXyzt6RHMknqcWL1ZNdHC_xQYXOT4axdyWShD0hljFf1V4HxITWk0GTcMGq0v7mY8m_P8UQpU0Nm0qzOse9AuR7ryx-r57oU=",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFHHHCzGNKpncz9PboVU82YpJlWlPhhJ9_WcuHgjpP0XGggSNiLMa7Oqk1R0Qwrv1o_CRlCEjqOMWzSvEL3bgSfzAmXmshkT_2LwIj0-eswnkzsNe5CsqZ"
+          ],
+          "expansion": [
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO679UeBEifm6lpOdoT9FmbHVtxVUuGACEa4xoAiRkELytv8rYErnufWDUe6dZ1nqmHFOKhvTGdeXVt-vHOqYutpRvkI4TSMnc0yo_eLJxYRWk4oQ7JQib4Mr7EOapBFoZA3pL5m1Nqh6f5BQ8S6J5iqQCIQVp9LTfdzhd4bdQdaXecZ5kGLGzCmSzwQY5w8r0tyUBBH7FFqTdRNRoBuLv6kC9GvUge_I5",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_JhpEBvVOJbdptkCXbkTk5DIzt-F1TP-zh-yAb__g_MaD6dyblU0G0US4NFIqCG0hytN16xfvDrqOwpIoV0aOnCFfkUxSvH8PEgphU9vQBdIliItHFl8ti5o_kAgmmyl5Jp6cP17bw5puuL0TwaIMVOL9n2rSf6mjln6XoveJwnuc5T9mjxeCV5CvCvd93-bxv4YlsqWq6ItZiqZcrE8hEQ1h",
+            "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPkl8gvR5Z6liGO8J-SokCS9fHswUKM6hmtTBuvdosoiPFsfpab-tjaw1PPXcZndhM7TlDx7gCGjleta81uhgCOViv8Zc8fouqk8LOlvEl7Ik_pFVDsjon963Blx0TePI_vlBXzOqx4LePs9aCfOXfPydmd7EBDOEuvBi4P8ivTFFvGaGyIV5ibxSZAYCWVxtjUHvjbLpOc3841-r-fa7DY9q1Rv6M8Dk="
+          ],
+          "tech_change": []
+        },
+        "census_data": {
+          "employed_population": 3736,
+          "unemployed_population": 248,
+          "unemployment_rate": 3.2,
+          "employment_rate": 47.7,
+          "median_household_income": 120781.0,
+          "total_housing_units": 3948,
+          "occupied_housing_units": 3833,
+          "vacant_housing_units": 115,
+          "occupancy_rate": 97.09,
+          "population": 10222
+        },
+        "property_website_found": true,
+        "api_success_count": 5,
+        "api_attempt_count": 5
+      },
+      "cached_at": "2026-04-28T18:42:36.502352+00:00",
+      "outreach_email": {
+        "subject": "Creekside Village: Streamlining lease-up for Allied Residential",
+        "body": "Hi Kathy,\n\nI noticed Creekside Village is currently in lease-up, and with Allied Residential's portfolio expanding just 1 day ago, I imagine your team is focused on maximizing efficiency. We help multifamily properties like Creekside Village automate 24/7 prospect follow-up and tour scheduling, which can be especially valuable when you have 1 open leasing or operations role. This frees up your onsite team to focus on high-value interactions and ensures no lead is missed, especially with a 97.09% local occupancy rate.\n\nWould you be open to a brief 15-minute chat next week to see if this could be helpful for Creekside Village?\n\nBipin",
+        "drafted_at": "2026-04-28T18:42:43.833015+00:00"
+      }
+    }
+  }
+}
