@@ -2,6 +2,14 @@
 
 Tools for GTM lead intelligence: enrich property leads, score them, draft outreach emails, and review results in a Streamlit app.
 
+<p align="center">
+    <img src="assets/demo.gif"/>
+</p>
+
+<p align="center">
+    <img src="assets/architecture.png"/>
+</p>
+
 ## Requirements
 
 - Python 3.10+
